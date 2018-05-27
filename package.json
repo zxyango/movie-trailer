@@ -19,5 +19,8 @@
   "homepage": "https://github.com/zxyango/movie-trailer#readme",
   "devDependencies": {
     "koa": "^2.5.1"
+  },
+  "dependencies": {
+    "pug": "^2.0.3"
   }
 }
