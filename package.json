@@ -22,6 +22,9 @@
   },
   "dependencies": {
     "koa-views": "^6.1.4",
-    "pug": "^2.0.3"
+    "pug": "^2.0.3",
+    "puppeteer": "^1.4.0",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
   }
 }
